@@ -30,5 +30,6 @@ My coding odyssey began as a curious finance and civil engineering student with 
 As I navigated through the complexities of databases, cloud services, and DevOps, my hands-on experience grew, shaping me into a versatile technologist. My journey took a turn when I embraced leadership as the CEO & CTO of SAI Technology, steering the company's tech vision while keeping my coding skills sharp.
 
 Despite the climb up the corporate ladder, the yearning to build something truly mine never faded. Now, as I balance my professional endeavors with personal aspirations, I'm setting the stage for 2024. I'm refining my focus, channeling my passion for tech into developing that dream app I've always wanted to build. It's time to get back in the saddle, push boundaries, and turn that long-standing vision into a reality. Keep an eye out—I'm on my way.
+</details>
 
 [website]: https://saitechnology.co
