@@ -2,7 +2,7 @@
 
 **`Engineer / Entreprenuer`**
 
-Hi, I'm Shareef Ali - a full stack software engineer and solutions architect. With a master's in finance and an engineering background, I've got a solid grip on tech, especially when it comes to spinning up sleek interfaces with React or powering back-ends with Node.js and Python. I'm all about cloud solutions, efficient databases, and smooth DevOps workflows. Plus, I get a kick out of using RPA to streamline complex tasks. Leading SAI Technology as CEO & CTO, I focus on pushing our tech forward, enhancing our systems, and boosting team productivity. Dive into my GitHub to see how I blend tech smarts with business savvy.
+Hi, I'm Shareef Ali - a full stack software engineer and solutions architect. With a master's in finance and an engineering background, I've got a solid grip on tech, especially when it comes to spinning up sleek interfaces with React or powering back-ends with Node.js or Python. I'm all about cloud solutions, efficient databases, and smooth DevOps workflows. Plus, I love using RPA (Robotics process automation) to streamline complex tasks. Leading SAI Technology as CEO & CTO, I focus on pushing our tech forward, enhancing our systems, and boosting team productivity. Dive into my GitHub to see how I blend tech smarts with business savvy.
 
 #
 
